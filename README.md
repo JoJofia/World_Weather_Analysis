@@ -19,6 +19,6 @@ Try to create a customer travel destination map, we retrieve the date from weath
 ### Vacation ltinerary
 Create the driving route map for user base on using Google Directions API. In the map will showing the city markers for user ltinerary. And also the city marker for each city will show the weather description, maxmium temperture for each location.
 ![weather travel map](https://github.com/JoJofia/World_Weather_Analysis/blob/2c50dcd1e6e646cf4c7535a9a2331bd3d5a8b7a3/Vacation_Itinerary/WeatherPy_travel_map.png)
-1[weather travel map markers](https://github.com/JoJofia/World_Weather_Analysis/blob/2c50dcd1e6e646cf4c7535a9a2331bd3d5a8b7a3/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![weather travel map markers](https://github.com/JoJofia/World_Weather_Analysis/blob/2c50dcd1e6e646cf4c7535a9a2331bd3d5a8b7a3/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 **juypter widget error not show up the map
